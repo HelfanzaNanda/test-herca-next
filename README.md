@@ -30,7 +30,7 @@ password : password
 
 
 # link simulator payment
-
+```
 ## Virtua Account
 Permata VA : https://simulator.sandbox.midtrans.com/openapi/va/index
 BCA VA : https://simulator.sandbox.midtrans.com/bca/va/index
@@ -56,23 +56,22 @@ CVV	: 123
 OTP/3DS	: 112233
 Card Number	: Refer to table given below
 
-# Accepted 3D Secure Card
+## Accepted 3D Secure Card
 
 | Bank | Card Number     |                |
 | :-------- | :------- | :------------------------- |
 | Mandiri |  |  |
 | Full Authentication	 | 4617 0069 5974 6656*	 | 5573 3810 7219 6900 |
 | Attempted Authentication	 | 4617 0017 4194 2101*	 | 5573 3819 9982 5417 |
-| :-------- | :------- | :------------------------- |
 | BNI |  |  |
 | Full Authentication	 | 4105 0586 8948 1467 | 5264 2210 3887 4659 |
 | Attempted Authentication	 | 4105 0525 4151 2148	 | 5264 2249 7176 1016 |
 | BNI Private Label		 | 1946 4159 8148 7684*	 | |
-| :-------- | :------- | :------------------------- |
 | BCA |  |  |
 | Full Authentication	 | 4773 7760 5705 1650	 | 5229 9031 3685 3172 |
 | Attempted Authentication	 | 4773 7738 1098 1190 | 5229 9073 6430 3610 |
-| :-------- | :------- | :------------------------- |
 | BRI |  |  |
 | Full Authentication	 | 4365 0263 3573 7199 | 5520 0298 7089 9100 |
 | Attempted Authentication	 | 4365 0278 6723 2690 | 5520 0254 8646 8439 |
+
+```
