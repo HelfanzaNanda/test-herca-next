@@ -30,30 +30,44 @@ password : password
 
 
 # link simulator payment
-```
-## Virtua Account
+## Virtual Account
+
 Permata VA : https://simulator.sandbox.midtrans.com/openapi/va/index
+
 BCA VA : https://simulator.sandbox.midtrans.com/bca/va/index
+
 MANDIRI VA : https://simulator.sandbox.midtrans.com/openapi/va/index?bank=mandiri
+
 BNI VA : https://simulator.sandbox.midtrans.com/bni/va/index
+
 BRI VA : https://simulator.sandbox.midtrans.com/openapi/va/index
+
 CIMB VA : https://simulator.sandbox.midtrans.com/openapi/va/index
 
 ## Convenience Store
+
 Indomaret : https://simulator.sandbox.midtrans.com/indomaret/phoenix/index
+
 Alfamart : https://simulator.sandbox.midtrans.com/alfamart/index
 
 ## E-Wallet
+
 QRIS : https://simulator.sandbox.midtrans.com/qris/index
+
 Gopay : https://simulator.sandbox.midtrans.com/gopay/ui/index
     - User not registered: 123450001
     - User is blocked: 123450002
 
 ## Card Payments
+
 Expiry Month : 01 (or any month)
+
 Expiry Year : 2025 (or any future year)
+
 CVV	: 123
+
 OTP/3DS	: 112233
+
 Card Number	: Refer to table given below
 
 ## Accepted 3D Secure Card
@@ -74,4 +88,5 @@ Card Number	: Refer to table given below
 | Full Authentication	 | 4365 0263 3573 7199 | 5520 0298 7089 9100 |
 | Attempted Authentication	 | 4365 0278 6723 2690 | 5520 0254 8646 8439 |
 
-```
+## Atau bisa dilihat langsung disini 
+https://docs.midtrans.com/docs/testing-payment-on-sandbox
